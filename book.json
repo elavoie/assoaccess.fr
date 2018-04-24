@@ -1,0 +1,15 @@
+{
+    "gitbook": ">=3.2.3",
+    "plugins": [
+        "language-picker",
+        "github@2.0.0"
+    ],
+    "pluginsConfig": {
+         "language-picker": {
+            "grid-columns": 3
+        },
+        "github": {
+            "url": "https://github.com/elavoie/scuttlebutt.fr"
+        }
+    }
+}
