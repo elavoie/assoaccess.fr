@@ -4,7 +4,7 @@
 * [Nouvelles](news.md)
 * [Installation](install.md)
 * [Membres](members.md)
-* [Projets en cours](projects.md)
+* [Projets en Cours](projects.md)
 * [Réalisations](achievements.md)
 * [S'impliquer](contribute.md)
 * [Faire un Don](donations.md)

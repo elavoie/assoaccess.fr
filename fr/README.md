@@ -1,6 +1,6 @@
 # Scuttlebutt.fr
 
-## Association française pour le développement d'outils citoyens de communication et d'organisation basés sur la famille de protocoles SSB (Secure-Scuttlebutt)
+## Association française pour le développement d'outils de communication et d'organisation basés sur la famille de protocoles SSB (Secure-Scuttlebutt)
 
 *Scuttlebutt (anglais, familier): Commérage de marins autour de la fontaine à eau sur un bateau.*
 
