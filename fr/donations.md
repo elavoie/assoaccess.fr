@@ -8,8 +8,3 @@ Basée aux États-Unis et gérée par des membres internationaux. Utilisée en a
 
 Envoyez vos dons à l'adresse suivante: 
 https://blockchain.info/address/3MDUASx7ry2zLikxP7rBYwePioaEWQfTmH
-
-Le montant total des dons reçus y est également indiqué.
-
-
-
