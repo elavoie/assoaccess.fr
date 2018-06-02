@@ -1,6 +1,6 @@
 # Association de Citoyens pour des Communications Émancipées, Sécurisées et Solidaires (ACCESS)
 
-*Mission: Développement d'outils de communication et d'organisation basés sur le protocole Secure-Scuttlebutt (SSB).*
+*Mission: Développement d'outils de communication et d'organisation basés sur le protocole Secure-Scuttlebutt (SSB) en France.*
 
 > Scuttlebutt (anglais, familier): Commérage de marins autour de la fontaine à eau sur un bateau.
 

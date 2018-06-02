@@ -1,6 +1,6 @@
 # Association of Citizens for Communications that are Emancipated, Secure, and Solidary (ACCESS)
 
-*Mission: Develop communication and organization tools based on the Secure-Scuttlebutt (SSB) protocol.*
+*Mission: Develop communication and organization tools based on the Secure-Scuttlebutt (SSB) protocol in France.*
 
 > Scuttlebutt: sea-slang for gossip - a scuttlebutt is basically a watercooler on a ship.
 
