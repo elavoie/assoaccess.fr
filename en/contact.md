@@ -1,3 +1,3 @@
 General information:
 
-contact AT scuttlebutt.fr
+admin AT assoaccess.fr
