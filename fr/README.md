@@ -1,14 +1,14 @@
-# Scuttlebutt.fr
+# Association de Citoyens pour des Communications Émancipées, Sécurisées et Solidaires (ACCESS)
 
-## Association française pour le développement d'outils de communication et d'organisation basés sur la famille de protocoles SSB (Secure-Scuttlebutt)
+*Mission: Développement d'outils de communication et d'organisation basés sur le protocole Secure-Scuttlebutt (SSB).*
 
-*Scuttlebutt (anglais, familier): Commérage de marins autour de la fontaine à eau sur un bateau.*
+> Scuttlebutt (anglais, familier): Commérage de marins autour de la fontaine à eau sur un bateau.
 
 Secure-Scuttlebutt (SSB) est un protocole de communication qui facilite la création d'applications sociales qui:
 * *ne nécessitent aucun compte dans une base de données centralisée*, seulement la création locale d'un identifiant et d'une clé privée associée, contrairement à la plupart des services Web d'aujourd'hui qui requièrent un compte courriel et la création d'un compte sur la plateforme;
 * *ne nécessitent aucune plateforme de communication centralisée*, contrairement à Facebook, Google, ou Twitter qui requièrent une connexion aux plateformes de ces compagnies incluant une surveillance constante des activités des utilisateurs/utilisatrices à des fins marketing;
 * *restreignent les possibilités de messages indésirables* en ne propageant que les messages des membres du réseau social de son utilisateur/utilisatrice, contrairement au courriel qui permet l'envoi de courriels indésirables en masse (spam);
-* *permettent les communications encryptées entre utilisateurs/utilisatrices* sans révéler les destinataires des messages, contrairement aux messageries conventionnelles qui, même encryptées, révèlent quand même les participants des conversations;
+* *permettent les communications chiffrées entre utilisateurs/utilisatrices* sans révéler les destinataires des messages, contrairement aux messageries conventionnelles qui, même chiffrées, révèlent quand même les participants des conversations;
 * *permettent la sauvegarde et le partage sélectif d'informations privées*, accessibles seulement par l'utilisateur/utilisatrice et les destinataires sélectionnés grâce à l'utilisation de protocoles cryptographiques, contrairement aux messages "privés" de nombreuses plateformes qui sont en fait accessibles à l'opérateur de la plateforme;
 * *fonctionnent avec un accès internet intermittent* en gardant une copie locale de tous les messages échangés pour maintenir les fonctionalités même hors connexion internet, contrairement à la plupart des applications Web d'aujourd'hui;
 * *sauvegardent automatiquement de manière solidaire une copie des messages* chez les abonnés de l'utilisateur/utilisatrice, ce qui permet une restauration automatique ultérieure en cas de perte des données originales (en autant que l'utilisateur/utilisatrice possède toujours sa clé privée).

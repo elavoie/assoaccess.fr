@@ -1,6 +1,8 @@
-# French association for the development of citizen communication and organization tools based on the SSB (Secure-Scuttlebutt) family of protocols
+# Association of Citizens for Communications that are Emancipated, Secure, and Solidary (ACCESS)
 
-*Scuttlebutt: sea-slang for gossip - a scuttlebutt is basically a watercooler on a ship*
+*Mission: Develop communication and organization tools based on the Secure-Scuttlebutt (SSB) protocol.*
+
+> Scuttlebutt: sea-slang for gossip - a scuttlebutt is basically a watercooler on a ship.
 
 Secure-Scuttlebutt (SSB) is a communication protocol that simplifies the creation of social applications that:
 * *require no account in a central database*, only the creation of an identifier and associated private key, contrary to most Web services of today that require an email and the creation of an account on their platform;
